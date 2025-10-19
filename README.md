@@ -1,2 +1,2 @@
 # ASTR19
-This repository is HELLA BORING
+for astr 19
